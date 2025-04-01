@@ -1,26 +1,19 @@
 <div align="center">
-  <!-- WORKING Snake Animation -->
-  ![Contribution Snake](https://raw.githubusercontent.com/radiushere/radiushere/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  </picture>
 </div>
-
-<br>
-
-<!-- WORKING Spotify Widget -->
-<div align="center">
-  <a href="https://open.spotify.com/user/31gh3fail3htncswlm554ytjxwde">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gh3fail3htncswlm554ytjxwde&cover_image=true&theme=novatorem&bar_color=58a6ff&bar_color_cover=false" width="80%">
-  </a>
-</div>
-
 <br>
 
 ## 🚀 Featured Projects
 
 <div align="center">
   <table>
-    <!-- Snapchat-Style AR -->
     <tr>
-      <td width="33.3%">
+      <!-- Snapchat-Style AR -->
+      <td width="33%">
         <h3 align="center">Snapchat-Style AR</h3>
         <div align="center">
           <a href="https://github.com/radiushere/snapchat-esque-app-face-eye-recognition">
@@ -36,9 +29,8 @@
           </p>
         </div>
       </td>
-      
-      <!-- Enemy AI Controller - FIXED -->
-      <td width="33.3%">
+      <!-- Enemy AI Controller -->
+      <td width="33%">
         <h3 align="center">Enemy AI Controller</h3>
         <div align="center">
           <a href="https://github.com/radiushere/Enemy-AI-Controller">
@@ -54,9 +46,8 @@
           </p>
         </div>
       </td>
-      
-      <!-- Movie Recommender - FIXED -->
-      <td width="33.3%">
+      <!-- Movie Recommender -->
+      <td width="33%">
         <h3 align="center">Movie Recommender</h3>
         <div align="center">
           <a href="https://github.com/radiushere/radiushere-basic-movie-recommender-system">
